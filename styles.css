@@ -6,7 +6,7 @@
 
 .banner {
     position: relative;
-    background: url("./assets/landing.jpg");
+    background: url("");
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -19,7 +19,7 @@
   
   .container {
     position: absolute;
-    top: 50%;
+    top: 50%;g
     bottom: 50%;
   }
   
